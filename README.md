@@ -131,8 +131,9 @@ This script generates a dataset of Starbucks locations in Seoul, South Korea (St
 
 ## 📈 Data Sources
 
-- Starbucks Korea official store locator
-- Public datasets of major Korean coffee franchises (Ediya, Mega Coffee, Paik's Coffee, etc.)
+- Starbucks Korea official website (https://www.starbucks.co.kr/index.do)
+- Public datasets of major Korean coffee franchises (extracted from the Small Business Market Promotion Agency Shopping District Information dataset)
+  * (https://www.data.go.kr/data/15083033/fileData.do)
 
 ## 📄 License
 
