@@ -127,6 +127,7 @@ This script generates a dataset of Starbucks locations in Seoul, South Korea (St
 
 ### Data Analysis Notebook
 `6._Location_strategy_for_a_coffee_franchise.ipynb` contains the full data analysis process, documentation, and visualization.
+* Please open in colab to see visualization (graph, tables)
 
 ## 📈 Data Sources
 
