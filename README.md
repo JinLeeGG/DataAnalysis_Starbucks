@@ -67,9 +67,18 @@ python DataAnalysis_Starbucks\starbucks.py
 
 ![Starbucks Webscraper Demo](./demo/StarbucksKorea_Webscraper_demo.gif)
 
+### Output: starbucks_seoul.csv 
+This contains a dataset of Starbucks locations in Seoul, South Korea (Store name, Address, Latitude, Longitude)
+
+![image](https://github.com/user-attachments/assets/f68bfca6-0271-4e3b-9fe5-aa5d2aee76c4)
+
+### Data Analysis
+6._Location_strategy_for_a_coffee_franchise.ipynb contains data analysis process, documentation, and visualization
+
+
 ## 📊 Expected Outcomes
 
-- Comprehensive dataset of coffee franchise locations in South Korea
+- Comprehensive dataset of Starbucks locations in Seoul, South Korea (Store name, Address, Latitude, Longitude)
 - Statistical analysis of proximity patterns between Starbucks and competitors
 - Validation or refutation of the "defend the seat next to Starbucks" strategy
 - Actionable insights for coffee franchise location planning
