@@ -1,6 +1,6 @@
 # Coffee Franchise Location Strategy Analysis
 
-A data-driven analysis examining the location strategies of coffee franchises in South Korea, specifically investigating the proximity relationship between Starbucks and competitor coffee shops.
+A data-driven analysis examining the location strategies of coffee franchises in South Korea, specifically investigating the proximity relationship between Starbucks and its competitors.
 
 ## 📋 Project Overview
 
@@ -33,9 +33,7 @@ This project aims to verify whether this proximity strategy is widely adopted ac
 - **External Data**: Download and integrate CSV files containing other major coffee franchise locations in Korea
 
 ### Data Analysis
-- Geospatial analysis of coffee shop distributions
-- Proximity calculations between competing franchises
-- Statistical analysis of location clustering patterns
+- Distance calculations between competing franchises using the Haversine formula
 - Visualization of spatial relationships
 
 ## 🔧 Technologies Used
@@ -48,7 +46,7 @@ This project aims to verify whether this proximity strategy is widely adopted ac
 
 ## 🚀 Getting Started
 
-### Installation
+### Starbucks Korea Location Web Scraper Installation
 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/coffee-location-strategy.git
@@ -64,6 +62,9 @@ pip install -r requirements.txt
 ```bash
 python DataAnalysis_Starbucks\starbucks.py
 ```
+
+### Demo
+
 
 ## 📊 Expected Outcomes
 
