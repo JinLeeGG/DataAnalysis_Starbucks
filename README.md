@@ -63,8 +63,9 @@ pip install -r requirements.txt
 python DataAnalysis_Starbucks\starbucks.py
 ```
 
-### Demo
+### Starbucks Korea Location Web Scraper Demo
 
+![Starbucks Webscraper Demo](./demo/StarbucksKorea_Webscraper_demo.gif)
 
 ## 📊 Expected Outcomes
 
